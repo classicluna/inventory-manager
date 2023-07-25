@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inventory-manager/static/css/main.b491f54e.css",
+    "main.js": "/inventory-manager/static/js/main.2aadd9a6.js",
+    "static/js/787.bcf644da.chunk.js": "/inventory-manager/static/js/787.bcf644da.chunk.js",
+    "index.html": "/inventory-manager/index.html",
+    "main.b491f54e.css.map": "/inventory-manager/static/css/main.b491f54e.css.map",
+    "main.2aadd9a6.js.map": "/inventory-manager/static/js/main.2aadd9a6.js.map",
+    "787.bcf644da.chunk.js.map": "/inventory-manager/static/js/787.bcf644da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b491f54e.css",
+    "static/js/main.2aadd9a6.js"
+  ]
+}
